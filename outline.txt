@@ -2,5 +2,7 @@ chapter 1
 - We meet nick, tom, daisy and jordan
 
 -Tom -> some details
+
+chapter 2
 -Daisy -> some characters
 -Nick -> breaks train on the way back home
