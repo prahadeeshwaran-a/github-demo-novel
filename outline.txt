@@ -3,3 +3,4 @@ chapter 1
 
 -Tom -> some details
 -Daisy -> some characters
+-Nick -> breaks train on the way back home
